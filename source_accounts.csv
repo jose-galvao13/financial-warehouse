@@ -1,0 +1,9 @@
+AccountID,AccountName,Type,Category
+4010,Sales Revenue,Revenue,Sales
+4020,Service Revenue,Revenue,Sales
+5010,COGS,Expense,Direct Costs
+5020,Staff Costs,Expense,OpEx
+6210,Marketing,Expense,OpEx
+6220,IT Expenses,Expense,OpEx
+1010,Cash,Asset,Treasury
+2010,Payables,Liability,Current Liab
