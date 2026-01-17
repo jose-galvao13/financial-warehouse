@@ -17,6 +17,3 @@ Moving away from decentralized Excel files, this project builds a **Kimball Star
 *   **Data Processing:** Pandas, NumPy
 *   **Visualization:** Microsoft Power BI
 *   **IDE Tools:** VS Code, SQLTools
-
----
-*Developed by a Management & Finance student at ISCAC - Coimbra Business School.*
